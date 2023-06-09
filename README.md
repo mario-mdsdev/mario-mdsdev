@@ -3,7 +3,7 @@
 I live in Brazil and my main hobby is coding.  
 Nowadays (2022) I'm learning the cloud technology for AWS.
 
-## Currently I work as Java Back-end Developer at [Snowman Labs](https://www.snowmanlabs.com/).
+## Currently I work as Software Egineer at [Itaú Unibanco](https://www.itau.com.br/).
 
 <br />
 
